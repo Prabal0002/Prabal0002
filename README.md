@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **React, python and java**
 
-- 📫 How to reach me **ps9285035@gmail.com**
+- 📫 How to reach me **prabalsingh9285@gmail.com**
 
 - ⚡ Fun fact **I think I am funny 🤗🥰**
 
