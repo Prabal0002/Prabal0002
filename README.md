@@ -1,6 +1,6 @@
 ![logo](https://github.com/Prabal0002/Prabal0002/blob/e3dcdec3ffdd590e15303b850fb1779f77f36017/GitHub%20Banner)
 <h1 align="center">Hi 👋, I'm Prabal Singh Bhadoriya</h1>
-<h3 align="center">A passionate fullstack development and datascience engineering from India</h3>
+<h3 align="center">A Passionate ReactJs Developer and Data Science Student from India</h3>
 <image align="right" alt="coding" Width="400" src="https://giphy.com/gifs/hacktiv8-code-programming-programmer-lP8xu5t2DLGG045H8F">
 
 
